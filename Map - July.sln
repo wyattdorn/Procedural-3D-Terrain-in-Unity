@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5E936F10-1B75-9309-FFA4-D43CA81E4745}") = "Map - July", "Assembly-CSharp-firstpass.csproj", "{54937EEF-8FAC-7331-1593-A2F2BF56CDA1}"
+EndProject
+Project("{5E936F10-1B75-9309-FFA4-D43CA81E4745}") = "Map - July", "Assembly-CSharp.csproj", "{4C121D57-9D0B-B363-676D-FFE31DC6B776}"
+EndProject
+Project("{5E936F10-1B75-9309-FFA4-D43CA81E4745}") = "Map - July", "Assembly-CSharp-Editor.csproj", "{6FC7537C-AA3D-DA9A-ECB8-E106C2F64575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54937EEF-8FAC-7331-1593-A2F2BF56CDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54937EEF-8FAC-7331-1593-A2F2BF56CDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54937EEF-8FAC-7331-1593-A2F2BF56CDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54937EEF-8FAC-7331-1593-A2F2BF56CDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C121D57-9D0B-B363-676D-FFE31DC6B776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C121D57-9D0B-B363-676D-FFE31DC6B776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C121D57-9D0B-B363-676D-FFE31DC6B776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C121D57-9D0B-B363-676D-FFE31DC6B776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC7537C-AA3D-DA9A-ECB8-E106C2F64575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC7537C-AA3D-DA9A-ECB8-E106C2F64575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC7537C-AA3D-DA9A-ECB8-E106C2F64575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC7537C-AA3D-DA9A-ECB8-E106C2F64575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
