@@ -31,10 +31,24 @@ public class NeighborTerrainScript : MonoBehaviour {
 		}
 	}
 
+	void generateNeighbor(ref float[,] myHeights, char direction){
+		//first we check which neighbor spawned our current terrain
+		switch(direction){
+			case 'N'||'n': 
+				
+				break;
+			case 'E'||'e':
+			case 'W'||'w':
+			case 'S'||'s':
+		}
+
+		
+	}
+
 	void generateTerrain(){
 		splatmapData = new float[myTerrain.terrainData.alphamapResolution, myTerrain.terrainData.alphamapResolution, myTerrain.terrainData.alphamapLayers];
 
-		Fractals fractalCode = gameObject.AddComponent <Fractals>();
+		NeighborFractals fractalCode = gameObject.AddComponent <Fractals>();
 
 		fractalCode.generateFractal (ref heights, size_x, 3.3f);
 
