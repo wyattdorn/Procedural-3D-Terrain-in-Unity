@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{195062A9-2E2F-EFC6-4E70-C76226159A7A}") = "Procedural Terrain", "Assembly-CSharp-firstpass.csproj", "{A8D4EE36-B932-C39D-A73D-3C4010D0FC6C}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain", "Assembly-CSharp-firstpass.csproj", "{A8D4EE36-B932-C39D-A73D-3C4010D0FC6C}"
 EndProject
-Project("{195062A9-2E2F-EFC6-4E70-C76226159A7A}") = "Procedural Terrain", "Assembly-CSharp.csproj", "{0B0A0CEB-F0D5-FC40-3748-53D3957E41F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain", "Assembly-CSharp.csproj", "{0B0A0CEB-F0D5-FC40-3748-53D3957E41F1}"
 EndProject
-Project("{195062A9-2E2F-EFC6-4E70-C76226159A7A}") = "Procedural Terrain", "Assembly-CSharp-Editor.csproj", "{1C56AA53-1C36-E5BE-03DA-E8C57A20CE23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain", "Assembly-CSharp-Editor.csproj", "{1C56AA53-1C36-E5BE-03DA-E8C57A20CE23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
